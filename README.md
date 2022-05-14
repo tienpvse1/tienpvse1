@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img width="80%" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nestjs_icon_132165.png" /></a></p>
+<p align="center"><a href=""><img width="30%" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nestjs_icon_132165.png" /></a></p>
 
 <br />
 
