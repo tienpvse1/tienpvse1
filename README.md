@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate Backend developer from Vietnam
+I'm a passionate self-taught Backend developer from Vietnam
 
 **About me**
 
