@@ -6,7 +6,7 @@ I'm a passionate self-taught Backend developer from Vietnam
 
 **About me**
 
-- 💼 Backend Engineer at [Gigantec.media](http://razorpay.com/)
+- 💼 Backend Engineer at IOTLink
 
 - 📈 Built Scalable serverside app with great performance
 
