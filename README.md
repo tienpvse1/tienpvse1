@@ -50,5 +50,5 @@ TBD
 
 ## GitHub Stats 📊
 
-| ![Aachal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tienpvse1&theme=white&show_icons=true)  | ![Aachal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tienpvse1&background=ffffff&hide_border=true) |
+| ![Tienpvse1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tienpvse1&theme=white&show_icons=true)  | ![Aachal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tienpvse1&background=ffffff&hide_border=true) |
 | ------------- | ------------- |
