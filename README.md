@@ -26,9 +26,11 @@
 <details>
 <summary>🛠️ Tech Stack</summary>
 
-**Frontend:** `HTML`, `CSS`, `JavaScript`, `React`, `Next.JS`, `Svelte`, `Sveltekit`  
-**Backend:** `Node.js`, `Express`, `NestJS`, `PostgresQL` 
-**Tools:** `Git`, `Neovim btw`, `Notion`
+**Frontend:** `HTML`, `CSS`, `JavaScript`, `React`, `Next.JS`, `Svelte`, `Sveltekit`
+
+**Backend:** `Node.js`, `Express`, `NestJS`, `PostgresQL`
+
+**Tools:** `Git`, `Neovim btw`, `Nixos`
 
 </details>
 
